@@ -10,14 +10,14 @@
 
 <h3>Features:</h3>
 <p>  
-- Categorizes files based on their extensions.          
-- Moves files into folders that match their categories (e.g., PDFs go into a 'pdf' folder).          
-- Handles exceptions gracefully, including permissions and file locks.
+- Categorizes files based on their extensions. <br>         
+- Moves files into folders that match their categories (e.g., PDFs go into a 'pdf' folder).<br>          
+- Handles exceptions gracefully, including permissions and file locks.<br>
 </p>
   
 <h3>Ideal For:</h3>
 <p>
-- Organizing Downloads, Documents, or any cluttered folder.          
-- Automating file management tasks.          
-- Keeping your workspace uncluttered and efficient.           
+- Organizing Downloads, Documents, or any cluttered folder.<br>          
+- Automating file management tasks. <br>         
+- Keeping your workspace uncluttered and efficient. <br>          
 </p>
