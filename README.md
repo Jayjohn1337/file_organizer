@@ -5,7 +5,7 @@
 </p>
 
 
-<h2>File Organizer: Automate Your File Management</h2>
+<h2 align="center">File Organizer: Automate Your File Management</h2>
 <p>Tired of sifting through cluttered directories? File Organizer is a Python script designed to categorize and move files into organized folders, making it easier than ever to keep your computer neat and find what you need, when you need it.</p>
 
 <h3>Features:</h3>
